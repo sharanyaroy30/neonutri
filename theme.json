@@ -1,6 +1,6 @@
 {
-  "variant": "tint",
-  "primary": "hsl(222.2 47.4% 11.2%)",
-  "appearance": "light",
-  "radius": 0.5
+  "variant": "tint",  // Keeping your local variant
+  "primary": "hsl(200 30% 10%)",  // Using remote's primary color
+  "appearance": "dark",  // Using remote's appearance
+  "radius": 0.8  // Using remote's radius
 }
